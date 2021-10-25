@@ -25,7 +25,7 @@ public class Main {
 
 
         public static void main(String[] args) {
-        println1("________________________________");
+        println1("______________________________");
        println2("");
             println3(5);
         System.out.println();
