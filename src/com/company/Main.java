@@ -9,10 +9,10 @@ public class Main {
 
 
     public static String println2 (String line) {
-        String text="AAAAAAAAAAAA";
+        String text="AAAAAAAAAAA";
         System.out.println(text);
 
-        return text;
+        return text;   
 
    }
 
